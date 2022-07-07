@@ -1,0 +1,24 @@
+footer{
+    width: 100%;
+    height: 300px;
+    background-color: goldenrod;
+}
+.vote2{
+    width: 33.33%;
+    height: 270px;
+    margin-top: 25px;
+    float: left;
+}
+.vote2 h1{
+    text-align: center;
+    color: red;
+}
+.vote2 p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.vote2 button{
+    display: block;
+    margin-left: 150px;
+    margin-top: 20px;
+}
