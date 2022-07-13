@@ -1,0 +1,12 @@
+.color-me{
+    color: white;
+}
+.rating-reviews {
+    display: none;
+}
+
+.ratings-container {
+    justify-content: center;
+    text-align: center;
+    margin: auto
+}
